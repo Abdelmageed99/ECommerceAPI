@@ -501,8 +501,3 @@ The API uses the following schemas for request and response bodies. Refer to the
 - **`UpdateOrderStatusRequest`**: Order status update request.
 - **`UserDTO`**: User details in response.
 
-For detailed schema structures, see the example JSON in the endpoint descriptions above.
-
----
-
-This documentation reflects the exact specifications from the provided OpenAPI JSON file.
